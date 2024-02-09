@@ -1,4 +1,4 @@
-package com.app.model;
+package com.clinicare.model;
 
 public class Appointment {
 }

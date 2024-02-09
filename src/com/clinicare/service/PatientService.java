@@ -1,4 +1,6 @@
-package com.app.service;
+package com.clinicare.service;
 
 public class PatientService {
+
+
 }

@@ -1,4 +1,4 @@
-package com.app.repository;
+package com.clinicare.repository;
 
 public class AppointmentRepository {
 }
